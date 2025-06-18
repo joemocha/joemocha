@@ -1,7 +1,11 @@
-# Hi there! 👋 I'm Sam
+# Hi there! 👋 I'm Sam (@joemocha)
 
 ## 🚀 About Me
 I'm a passionate software engineer with experience in full-stack development, building scalable applications and exploring new technologies. Currently working on exciting projects that combine modern web technologies with robust backend systems.
+
+- 👀 I'm interested in building great software and the good life
+- 🌱 I'm currently learning good software development practices
+- 💞️ I'm looking to collaborate on good software development tooling
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, TypeScript, Ruby, Go, Rust
@@ -22,6 +26,7 @@ I'm a passionate software engineer with experience in full-stack development, bu
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/samobukwelu)
 - 📧 Email: [samuel.obukwelu@gmail.com](mailto:samuel.obukwelu@gmail.com)
+- 🐦 Twitter: [twitter.com/joemocha](https://twitter.com/joemocha)
 - 🌐 Portfolio: [Coming Soon]
 
 ---
