@@ -77,9 +77,6 @@ graph LR
 4. **🔗 Smart Integration**: Merge AI-generated code with human oversight
 5. **🚀 Rapid Iteration**: Deploy faster than traditional sequential development
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joemocha&theme=radical)](https://git.io/streak-stats)
-
 ## 📫 Let's Connect & Collaborate
 <div align="center">
   
