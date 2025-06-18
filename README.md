@@ -8,26 +8,19 @@ I'm a passionate software engineer with experience in full-stack development, bu
 - 💞️ I'm looking to collaborate on good software development tooling
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, TypeScript, Ruby, Go, Rust
-- **Frontend:** React, Vue.js, HTML5, CSS3, TailwindCSS
-- **Backend:** Node.js, Ruby on Rails, Express.js
+- **Languages:** Python, JavaScript, TypeScript, Ruby, Go
+- **Frontend:** React, HTML5, CSS3, TailwindCSS
+- **Backend:** Node.js, Ruby on Rails
 - **Databases:** PostgreSQL, MongoDB, Redis
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
-- **Tools:** Git, VS Code, Figma
-
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joemocha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joemocha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- **Cloud & DevOps:** AWS, Docker, CI/CD
+- **Tools:** Git, VS Code
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joemocha&theme=radical)](https://git.io/streak-stats)
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/samobukwelu)
-- 📧 Email: [samuel.obukwelu@gmail.com](mailto:samuel.obukwelu@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sobu/)
 - 🐦 Twitter: [twitter.com/joemocha](https://twitter.com/joemocha)
-- 🌐 Portfolio: [Coming Soon]
 
 ---
 ⭐️ From [joemocha](https://github.com/joemocha)
