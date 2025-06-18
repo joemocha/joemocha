@@ -17,7 +17,7 @@ I'm a software engineer who **leverages AI to the hilt** by using AI agents to d
 - 🔄 **Continuous Integration**: Seamlessly merge AI-generated code with human oversight
 
 **Current Focus:**
-- 🌱 Perfecting AI agent workflows for maximum development efficiency
+- 🌱 Perfecting AI agent workflows for maximum development efficiency  
 - 💞️ Building tools that enhance AI-human collaboration in software development
 - 🎯 Exploring the cutting edge of AI-assisted programming
 
@@ -79,52 +79,13 @@ graph LR
 
 ## 🔄 Recent Activity
 
-> Last updated: 2025-06-18 21:41 UTC
+> Last updated: 2025-06-18 21:02 UTC
 
-- 🔨 **joemocha/joemocha**: Remove GitHub Streak section
-- 🔨 **joemocha/joemocha**: Phase 2: AI-Powered Developer Profile Enhancement  
-- 🔨 **joemocha/joemocha**: Fix profile information and clean up tech stack
-- 🔨 **joemocha/joemocha**: Resolve merge conflict: Enhance GitHub profile README
-- 🔨 **joemocha/joemocha**: Initial commit: Add foundational GitHub profile README
+- 🔨 **joemocha/graphiti**: Improve MCP server resilience and containerization
 
-## 🚧 Currently Working On
-
-- 🎯 **AI Agent Orchestration Platform**: Building a framework for coordinating multiple AI agents on complex development tasks
-- ⚛️ **Atomic Story Decomposer**: Tool that automatically breaks user stories into atomic, parallelizable pieces  
-- 🤖 **Multi-Agent Code Review System**: Implementing AI agents that specialize in different aspects of code review
-- 📊 **Development Velocity Analytics**: Tracking metrics on AI-assisted vs traditional development approaches
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-| 🤖 AI-Powered Projects | 🛠️ Core Technologies | 📊 Status |
-|:---|:---|:---|
-| **[AI Agent Framework](https://github.com/joemocha)** | Python, OpenAI API, FastAPI | 🚧 In Progress |
-| **[Parallel Development Dashboard](https://github.com/joemocha)** | React, TypeScript, D3.js | 💡 Planning |
-| **[Code Decomposition Engine](https://github.com/joemocha)** | Python, NLP, AST Analysis | 🎯 Research |
-| **[Multi-Agent Orchestrator](https://github.com/joemocha)** | Go, gRPC, Docker | ⚡ Active |
-
-</div>
-
-## 💭 AI Development Insights
-
-<details>
-<summary>🔍 Click to expand my thoughts on AI-driven development</summary>
-
-### Why AI Agents + Atomic Decomposition Works
-
-The traditional bottleneck in software development isn't coding speed—it's **context switching** and **sequential dependencies**. By breaking features into truly atomic pieces, we eliminate most dependencies and can parallelize work across multiple AI agents.
-
-**Key Insights:**
-- 🧠 **Cognitive Load Reduction**: Each agent focuses on one small, well-defined task
-- ⚡ **Parallelization**: No waiting for Team Member A to finish before Team Member B can start  
-- 🎯 **Quality Through Specialization**: Agents can be optimized for specific types of tasks
-- 🔄 **Rapid Iteration**: Smaller pieces = faster feedback loops = better end results
-
-**The Math:** Traditional development scales linearly with team size. AI agent development scales exponentially with decomposition granularity.
-
-</details>
+- Add server_wrapper.py for graceful shutdown and error recovery
+- Update Docker healthcheck parameters with longer timeouts
+- Improve environment variable handling with default values
 
 ## 📫 Let's Connect & Collaborate
 <div align="center">
