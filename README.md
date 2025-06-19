@@ -79,13 +79,13 @@ graph LR
 
 ## 🔄 Recent Activity
 
-> Last updated: 2025-06-18 21:09 UTC
+> Last updated: 2025-06-19 00:23 UTC
 
-- 🔨 **joemocha/graphiti**: Improve MCP server resilience and containerization
+- 🔨 **joemocha/joemocha**: Update AI development tools to reflect actual toolkit
 
-- Add server_wrapper.py for graceful shutdown and error recovery
-- Update Docker healthcheck parameters with longer timeouts
-- Improve environment variable handling with default values
+- Replace ChatGPT with Augment Code (purple badge)
+- Replace Cursor with Windsurf (blue badge)
+- Keep Claude and GitHub Copilot badges
 
 ## 📫 Let's Connect & Collaborate
 <div align="center">
