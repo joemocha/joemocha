@@ -79,13 +79,13 @@ graph LR
 
 ## 🔄 Recent Activity
 
-> Last updated: 2025-07-14 00:26 UTC
+> Last updated: 2025-07-14 06:08 UTC
 
+- 🔨 **joemocha/flow**: Revise CLAUDE.md to enhance clarity: update project overview and architecture sections, removing redundant language and improving descriptions of the single adaptive node system.
 - 🔨 **joemocha/joemocha**: Update AI development tools to reflect actual toolkit
 
 - Replace ChatGPT with Augment Code (purple badge)
 - Replace Cursor with Windsurf (blue badge)
-- Keep Claude and GitHub Copilot badges
 
 ## 📫 Let's Connect & Collaborate
 <div align="center">
