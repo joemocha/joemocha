@@ -79,13 +79,12 @@ graph LR
 
 ## 🔄 Recent Activity
 
-> Last updated: 2025-07-16 06:08 UTC
+> Last updated: 2025-07-16 12:09 UTC
 
+- 🔨 **joemocha/flow**: fix: update flowchart parameter formatting in README for clarity
+- 🔨 **joemocha/flow**: fix: move OpenAI dependency to the main require block in go.mod
+- 🔨 **joemocha/flow**: feat: add augment guidelines for workflow orchestration library
 - 🔨 **joemocha/flow**: feat: add custom release description support
-
-- Add --message option for custom release descriptions
-- Add --message-file option to read descriptions from files
-- Support interactive description input
 
 ## 📫 Let's Connect & Collaborate
 <div align="center">
