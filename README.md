@@ -79,13 +79,13 @@ graph LR
 
 ## 🔄 Recent Activity
 
-> Last updated: 2025-07-16 00:24 UTC
+> Last updated: 2025-07-16 06:08 UTC
 
-- 🔨 **joemocha/flow**: Revise CLAUDE.md to enhance clarity: update project overview and architecture sections, removing redundant language and improving descriptions of the single adaptive node system.
-- 🔨 **joemocha/joemocha**: Update AI development tools to reflect actual toolkit
+- 🔨 **joemocha/flow**: feat: add custom release description support
 
-- Replace ChatGPT with Augment Code (purple badge)
-- Replace Cursor with Windsurf (blue badge)
+- Add --message option for custom release descriptions
+- Add --message-file option to read descriptions from files
+- Support interactive description input
 
 ## 📫 Let's Connect & Collaborate
 <div align="center">
