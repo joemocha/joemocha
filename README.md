@@ -79,12 +79,13 @@ graph LR
 
 ## 🔄 Recent Activity
 
-> Last updated: 2025-08-11 00:26 UTC
+> Last updated: 2025-08-11 06:08 UTC
 
-- 🔨 **joemocha/flow**: fix: update flowchart parameter formatting in README for clarity
-- 🔨 **joemocha/flow**: fix: move OpenAI dependency to the main require block in go.mod
-- 🔨 **joemocha/flow**: feat: add augment guidelines for workflow orchestration library
-- 🔨 **joemocha/flow**: feat: add custom release description support
+- 🔨 **joemocha/agent-rules**: update docs
+- 🔨 **joemocha/claude-code-subagents**: Add 6 new business and specialized subagents
+
+- Added business-analyst for KPIs, metrics, and growth projections
+- Added content-marketer for SEO content and marketing campaigns
 
 ## 📫 Let's Connect & Collaborate
 <div align="center">
