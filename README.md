@@ -79,7 +79,7 @@ graph LR
 
 ## 🔄 Recent Activity
 
-> Last updated: 2025-08-23 18:05 UTC
+> Last updated: 2025-08-24 00:25 UTC
 
 - 🔨 **joemocha/agent-rules**: update docs
 - 🔨 **joemocha/claude-code-subagents**: Add 6 new business and specialized subagents
