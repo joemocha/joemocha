@@ -79,13 +79,9 @@ graph LR
 
 ## 🔄 Recent Activity
 
-> Last updated: 2025-09-11 00:22 UTC
+> Last updated: 2025-09-11 06:08 UTC
 
-- 🔨 **joemocha/agent-rules**: update docs
-- 🔨 **joemocha/claude-code-subagents**: Add 6 new business and specialized subagents
 
-- Added business-analyst for KPIs, metrics, and growth projections
-- Added content-marketer for SEO content and marketing campaigns
 
 ## 📫 Let's Connect & Collaborate
 <div align="center">
