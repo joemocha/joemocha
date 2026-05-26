@@ -79,13 +79,11 @@ graph LR
 
 ## 🔄 Recent Activity
 
-> Last updated: 2026-05-26 13:05 UTC
+> Last updated: 2026-05-26 18:52 UTC
 
 - 🔨 **joemocha/sobu.dev**: Updated code
 - 🔨 **joemocha/learn-harness-engineering**: Updated code
 - 🔨 **joemocha/case**: Updated code
-- 🔨 **joemocha/ai-engineering-workshop-draft**: Updated code
-- 🔨 **joemocha/ai-engineering-workshop-draft**: Updated code
 
 ## 📫 Let's Connect & Collaborate
 <div align="center">
